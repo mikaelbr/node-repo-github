@@ -9,11 +9,6 @@ var makeResponse = function(callback) {
 
     return function(response) {
 
-        // Should do something more elegant/fancy
-        if (response.statusCode != 200) {
-            return;
-        }
-
         response.setEncoding('utf8');
 
         response.on('data', function(chunk) {
