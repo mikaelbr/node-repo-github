@@ -35,9 +35,8 @@ Now you're ready to use it. As per now, this module only has one method; open. T
 The callback should look like this
 
 ```javascript
-function (err, data) {
-
-}```
+function (err, data) {}
+```
 
 Where ```err``` is the error notice and ```data``` is the Github response. 
 
