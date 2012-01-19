@@ -1,7 +1,7 @@
 var https = require('https');
 
 /**
- * Internal method for creating response hollabacks, should not be used on
+ * Internal method for creating response callbacks, should not be used on
  * its own
  */
 var makeResponse = function(callback) {
