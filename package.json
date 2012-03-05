@@ -1,6 +1,6 @@
 {
   "author": "Mikael Brevik <mikaelbre@gmail.com> (http://mikaelb.net)",
-  "name": "node-repo-github",
+  "name": "github-repo",
   "description": "A very simple Github repo info API wrapper",
   "version": "0.0.1",
   "homepage": "http://github.com/mikaelbr/node-repo-github",
@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git://github.com/mikaelbr/node-repo-github.git"
   },
-  "main": "./githubrepo.js",
+  "main": "./lib/github-repo/index.js",
   "engines": {
     "node": "~0.6.7"
   },
