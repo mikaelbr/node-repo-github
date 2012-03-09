@@ -2,7 +2,7 @@
   "author": "Mikael Brevik <mikaelbre@gmail.com> (http://mikaelb.net)",
   "name": "github-repo",
   "description": "A very simple Github repo info API wrapper",
-  "version": "0.0.1.1",
+  "version": "0.0.2",
   "homepage": "http://github.com/mikaelbr/node-repo-github",
   "repository": {
     "type": "git",
