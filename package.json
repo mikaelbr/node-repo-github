@@ -10,7 +10,7 @@
   },
   "main": "./lib/github-repo/index.js",
   "engines": {
-    "node": ">= 0.6.0"
+    "node": ">= 0.4.6"
   },
   "dependencies": {},
   "devDependencies": {}
