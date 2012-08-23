@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/mikaelbr/node-repo-github.png)](http://travis-ci.org/mikaelbr/node-repo-github)
 # Fetching Github Repo info with Node.js
 
 A very simple node.js module for fetching information about a Github Repo. This was developed as a helper to a project of mine, and should probably be fixed up and made more robust. 
